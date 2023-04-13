@@ -1,4 +1,4 @@
-import css from './Statistics.module.css';
+// import css from './Statistics.module.css';
 
 const Statistics = props => {
   console.log(props);
