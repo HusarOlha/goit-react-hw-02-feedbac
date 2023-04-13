@@ -1,7 +1,6 @@
 import css from './FeedbackOptions.module.css';
 
-const FeedbackOptions = props => {
-  return console.log(props);
+const FeedbackOptions = () => {
+  return console.log('ghvgh');
 };
-
 export default FeedbackOptions;
