@@ -1,0 +1,15 @@
+.container-stat {
+  text-align: start;
+}
+li {
+  margin-bottom: 10px;
+}
+li:last-child {
+  margin-bottom: 0;
+}
+
+.stat-text {
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 10px;
+}
